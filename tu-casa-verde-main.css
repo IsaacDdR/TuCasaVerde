@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.main-wrapper {}
+
+/*Logo*/
+
+
+.logo-wrapper {
+  /*margin-bottom:5%;*/
+  height: 120%;
+  padding-top: 4%;
+  /*padding-bottom: 8%;*/
+}
+
+.logo-tucasaverde {
+  border-top:solid  rgb(22, 119, 6) 5px;
+  width: 100%;
+  min-width: 100px;
+  max-width: 600px;
+  display: block;
+  margin: auto;
+  border-radius: 2px;
+}
+
+/*Slogan*/
+
+.slogan-tucasaverde {
+  box-shadow: 2px 2px 0px 2px rgb(204, 204, 204);
+  border-bottom: solid  rgb(22, 119, 6) 5px;
+  border-top: solid rgb(22, 119, 6) 5px;
+  font-size: 100%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+/*Nosotros*/
+
+.nosotros {
+  box-shadow: 2px 2px 0px 2px rgb(204, 204, 204);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom: solid  rgb(22, 119, 6) 5px;
+}
+
+.nosotros-box {
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 120%;
+}
+
+/*Servicios*/
+
+.servicios-descripcion {
+  text-align: center;
+}
+
+.servicios-titulos {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.servicios-tucasaverde {
+  box-shadow: 2px 2px 2px 2px rgb(204, 204, 204);
+}
+
+.servicios-box {
+  padding: 5%;
+}
+
+.descripcion-box{
+  height: 50%;
+  width: 40%;
+}
+
+#luz-svg {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+
+#agua-png {
+  width: 20%;
+}
+
+#gas-img {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+
+
+/*MAPS*/
+
+#id{
+  width:400px;
+  height:400px;
+}
+
+
+.tabla-header{
+  width: 33.3%;
+}
