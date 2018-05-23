@@ -1,0 +1,202 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.main-wrapper {
+
+
+}
+
+/*LOGO*/
+
+
+.logo-wrapper {
+
+  /*margin-bottom:5%;*/
+  height: 120%;
+  padding-top: 1%;
+  /*padding-bottom: 8%;*/
+
+}
+
+.logo-tucasaverde {
+
+  width: 100%;
+  min-width: 100px;
+  max-width: 600px;
+  display: block;
+  margin: auto;
+  border-radius: 2px;
+
+}
+
+/*SLOGAN*/
+
+.slogan-tucasaverde {
+  padding-left: 5%;
+  padding-right: 5%;
+  box-shadow: 2px 2px 0px 2px rgb(204, 204, 204);
+  border-bottom: solid  rgb(22, 119, 6) 5px;
+  font-size: 100%;
+  text-align: center;
+  margin-top: 5%;
+
+}
+
+/*DESCRIPTION-TUCASAVERDE*/
+
+.tucasaverde-description{
+
+  box-shadow: 2px 2px 0px 2px rgb(204, 204, 204);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom: solid  rgb(22, 119, 6) 5px;
+
+}
+
+.tucasaverde-description-box {
+  font-size:1.5em;
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-bottom: 5px;
+  text-align: center;
+
+}
+
+/*SERVICES*/
+
+.services-titles {
+
+  padding:1%;
+  width:20%;
+  display:block;
+  margin: auto;
+  border-bottom: solid 5px rgb(11, 180,31);
+  text-align: center;
+  font-size: 1.5em;
+
+}
+
+.services-tucasaverde {
+
+  border-bottom: solid 5px rgb(11, 180, 31);
+  box-shadow: 2px 2px 4px 2px rgb(167, 167, 167);
+  line-height:30px;
+
+}
+
+.services-box {
+
+  padding: 5%;
+
+}
+
+/*MAPS*/
+
+#map{
+
+  width:400px;
+  height:400px;
+
+}
+
+/*IMAGES*/
+
+.img-tel{
+
+  width: 50%;
+
+}
+
+.img-tabla{
+
+  display:block;
+  margin:auto;
+  width:50%;
+
+}
+
+/*TABLES*/
+
+.description-table{
+
+  width: 100%;
+
+}
+
+.table-header-title{
+
+  width: 30% !important;
+
+}
+
+.table-header-cat{
+
+  width: 30% !important;
+
+}
+
+/*CAT DESIGN*/
+
+.description-cell{
+  width: 30% !important;
+  min-width: 30% !important;
+  max-width: 30% !important;
+
+}
+
+.description-cat{
+
+  box-shadow: 2px 2px 10px 2px rgb(180, 180, 180);
+  padding:5%;
+  border-radius:3px;
+  background-color:rgba(11, 180, 31, 0.76);
+  font-size: 1.2em;
+}
+
+/*CONTACT*/
+
+.contact-tucasaverde{
+
+  box-shadow: 2px 2px 2px 2px rgb(158, 152, 152);
+  border-bottom: solid  rgb(22, 119, 6) 5px;
+
+}
+
+.contact-wrapper{
+
+  margin-bottom: 5%;
+
+}
+
+.contact-title{
+
+  text-align:center;
+  padding-top: 2%;
+
+}
+
+.contact-logo{
+  margin-left:5%;
+  width: 30% !important;
+
+}
+
+.contact-content{
+
+  float:right;
+  width:70%;
+
+}
+
+
+/*FOOTER*/
+
+.footer-table{
+
+  border-bottom: solid 20px rgb(11, 180, 31);
+  color: white;
+  background-color: rgb(71, 71, 71);
+  width: 100%;
+  text-align: center;
+
+}
